@@ -178,7 +178,7 @@ function filterByWord(originalFlavors, flavor){
 
         }
     }
-}
+
 
 
 /* 💪💪💪💪💪🧁🍦🍨 STRETCH 🍨🍦🍫💪💪💪💪💪*/ 
